@@ -1,0 +1,17 @@
+{
+  "name": "希腊语单词岛",
+  "short_name": "单词岛",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#367fbd",
+  "description": "图片联想、发音和间隔复习的希腊语词汇助手",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
